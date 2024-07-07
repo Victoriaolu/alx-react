@@ -4,13 +4,10 @@ JavaScript
 ES6
 React
  Weight: 1
- Project over - took place from Jul 2, 2024 6:00 AM to Jul 5, 2024 6:00 AM
+ Project will start Jul 2, 2024 6:00 AM, must end by Jul 5, 2024 6:00 AM
+ Checker was released at Jul 3, 2024 12:00 AM
  Manual QA review must be done (request it when you are done with the project)
  An auto review will be launched at the deadline
-In a nutshell…
-Manual QA review: Pending
-Auto QA review: 0.0/5 mandatory
-Altogether: waiting on some reviews
 
 
 Resources
@@ -37,4 +34,4 @@ Requirements
 All your files will be interpreted/compiled on Ubuntu 18.04 LTS using node 12.x.x and npm 6.x.x
 Allowed editors: vi, vim, emacs, Visual Studio Code
 All your files should end with a new line
-A README.md file, at the root of the folder of the project, is mandatory
+A README.md file, at the root of the folder of the project, is mandatory.
